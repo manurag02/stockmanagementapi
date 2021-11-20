@@ -1,0 +1,15 @@
+INSERT INTO stock(id,name, current_price,currency_code, created_date) VALUES (1,'ACC', 455.23,'EUR', CURRENT_TIMESTAMP);
+INSERT INTO stock(id,name, current_price,currency_code, created_date) VALUES (2,'BPCL',900,'EUR',CURRENT_TIMESTAMP);
+INSERT INTO stock(id,name, current_price,currency_code, created_date) VALUES (3,'CAIRN',2000,'EUR',CURRENT_TIMESTAMP);
+INSERT INTO stock(id,name, current_price,currency_code, created_date) VALUES (4,'DGD',290,'EUR',CURRENT_TIMESTAMP);
+INSERT INTO stock(id,name, current_price,currency_code, created_date) VALUES (5,'FEDN',300,'EUR',CURRENT_TIMESTAMP);
+INSERT INTO stock(id,name, current_price,currency_code, created_date) VALUES (6,'GAP',500,'EUR',CURRENT_TIMESTAMP);
+INSERT INTO stock(id,name, current_price,currency_code, created_date) VALUES (7,'H&M',1000,'EUR',CURRENT_TIMESTAMP);
+INSERT INTO stock(id,name, current_price,currency_code, created_date) VALUES (8,'IKEA',4000,'EUR',CURRENT_TIMESTAMP);
+INSERT INTO stock(id,name, current_price,currency_code, created_date) VALUES (9,'IKEA',4000,'EUR',CURRENT_TIMESTAMP);
+INSERT INTO stock(id,name, current_price,currency_code, created_date) VALUES (10,'IKEA',4000,'EUR',CURRENT_TIMESTAMP);
+INSERT INTO stock(id,name, current_price,currency_code, created_date) VALUES (11,'IKEA',4000,'EUR',CURRENT_TIMESTAMP);
+INSERT INTO stock(id,name, current_price,currency_code, created_date) VALUES (12,'IKEA',4000,'EUR',CURRENT_TIMESTAMP);
+INSERT INTO stock(id,name, current_price,currency_code, created_date) VALUES (13,'IKEA',4000,'EUR',CURRENT_TIMESTAMP);
+INSERT INTO stock(id,name, current_price,currency_code, created_date) VALUES (14,'IKEA',4000,'EUR',CURRENT_TIMESTAMP);
+INSERT INTO stock(id,name, current_price,currency_code, created_date) VALUES (15,'IKEA',4000,'EUR',CURRENT_TIMESTAMP);
