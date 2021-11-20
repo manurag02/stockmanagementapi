@@ -8,11 +8,11 @@ This service will allow you to manage stocks based on current price and currency
 
 This service uses Docker compose with postgres as db. You can run this project in two ways :-
 1. Locally using H2  dev profile for debugging.
-2. By using docker compose. Please find the instructions below for running the same :-
-    2.1 Install docker-compose/ docker desktop from `https://docs.docker.com/compose/install/`
-    2.2 Pull docker image using `docker pull postgres`
-    2.2 Navigate to `src/main/docker` and use `docker compose up`.
-    2.3 Postgres docker image will be pulled and application will start on port 8081 
+2. By using docker compose. Please find the instructions below for running the same :-  
+    2.1 Install docker-compose/ docker desktop from `https://docs.docker.com/compose/install/`  
+    2.2 Pull docker image using `docker pull postgres`  
+    2.2 Navigate to `src/main/docker` and use `docker compose up`.  
+    2.3 Postgres docker image will be pulled and application will start on port 8081   
 
 ## Pre-requisite
 
