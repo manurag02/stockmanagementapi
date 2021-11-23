@@ -33,5 +33,17 @@ Now application is up and running
 
 ## How to view the documentation 
 
-- Open the URL in your browser : http://localhost:8081/stockManagementApi/v1/swagger-ui/index.html
+- Open the URL in your browser : http://localhost:8081/stockManagementApi/v1/swagger-ui/index.html 
+- You will be prompted for user id and password, please enter id as `user` and password as `user`. 
+- This project uses Spring security basic authentication which can be replaced with Oauth2/ Jwt as well.
+
+## Key specifications of this project
+- Spring boot latest
+- Spring security
+- Exception handling & input validation
+- Docker
+- Postgres as persistence DB
+- Swagger used as project document 
+- Spring boot actuator for monitoring health
+
 
